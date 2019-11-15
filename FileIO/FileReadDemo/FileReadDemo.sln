@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReadDemo", "FileReadDemo\FileReadDemo.csproj", "{CDBCD084-4FDA-4E3A-92B4-81E08C336AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBCD084-4FDA-4E3A-92B4-81E08C336AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBCD084-4FDA-4E3A-92B4-81E08C336AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBCD084-4FDA-4E3A-92B4-81E08C336AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBCD084-4FDA-4E3A-92B4-81E08C336AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3533979-9A34-45FB-BAAB-3519EF9EBAD6}
+	EndGlobalSection
+EndGlobal
